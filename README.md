@@ -1,2 +1,2 @@
 # Cahn_Hilliard
-Python solving partial differential equation of a 3D grid
+Python solving partial differential equation on a 2D grid
