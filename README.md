@@ -1,5 +1,5 @@
 # Cahn_Hilliard
-Solving the Cahn Hilliard equation on a 2D lattice using Python 
+Solving the Cahn Hilliard equation on a 2D lattice using finite difference equations in Python
 
 Usage: Cahn_Hilliard.py lattice Size, sweeps, dt, dx,M, kappa, phi_0, Data/Animate
 
